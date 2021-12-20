@@ -1,5 +1,8 @@
 # comp3005FinalProject
 Aidan Dore, 101158193
+ -SQL folder contains DDL for bookstore
+ -JS folder contains project logic
+ -EXPRESS folder holds not used html and css files that I was trying to implement
  HOW TO RUN:
   dependencies:
     -nodejs, using windows installer
